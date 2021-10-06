@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://github.com/Abdihakim20/huddle-landing-page)
+- Solution URL: [Solution link](https://github.com/Abdihakim20/single-price-grid-component)
 - Live Site URL: [Live site link](https://abdihakim20.github.io/huddle-landing-page/)
 
 ### Built with
